@@ -6,14 +6,14 @@
 
 ## Como ejecutarlo.
 
-    1. Primero clonamos el repositorio:
+1. Primero clonamos el repositorio:
 
     ```bash
     git clone https://github.com/Eidikey/SistemasEcuaciones.git
     ```
 
-    2. Accedemos a la carpeta SistemasEcuaciones.
-    3. Usamos java para ejecutar la clase Main.java 
+2. Accedemos a la carpeta SistemasEcuaciones.
+3. Usamos java para ejecutar la clase Main.java 
 
     ```bash
     java com/calculadora/Main.java
