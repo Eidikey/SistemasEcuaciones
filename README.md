@@ -4,6 +4,9 @@
 
 - Código simple en java que resuleve sistemas de ecuaciones des 2x2 hasta 5*5 
 
+## Requisitos.
+
+- JavaJDK 21 o superior
 ## Como ejecutarlo.
 
 1. Primero clonamos el repositorio:
@@ -13,10 +16,16 @@
     ```
 
 2. Accedemos a la carpeta SistemasEcuaciones.
+3. Compila desde la raíz:
+
+    ```bash
+   javac com/calculadora/Main.java
+   ```
+
 3. Usamos java para ejecutar la clase Main.java 
 
     ```bash
-    java com/calculadora/Main.java
+    java java com.calculadora.Main
     ```
 
 ## Creadores
