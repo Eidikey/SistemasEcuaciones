@@ -1,26 +1,26 @@
-## 🚀 Características
+# PROYECTO DE ALGEBRA LINEAL
 
-* Para proyectos de algebra
+## Funcionalidad.
 
-* **Interfaz Gráfica (GUI):** Implementada con Swing para una gestión de matrices dinámica y sencilla.
-* **Métodos de Resolución:**
-    * **Gauss-Jordan:** Transformación de matrices para obtener soluciones directas.
-    * **Regla de Cramer:** Resolución mediante determinantes.
-* **Validaciones:** Manejo de errores para sistemas sin solución o con infinitas soluciones (determinante igual a cero).
+- Código simple en java que resuleve sistemas de ecuaciones des 2x2 hasta 5*5 
 
-## 🛠️ Tecnologías Utilizadas
+## Como ejecutarlo.
 
-* **Lenguaje:** Java (JDK 25)
-* **Framework de UI:** Java Swing
-* **Entorno de Desarrollo:** Optimizado para flujos de trabajo en terminal y entornos Linux.
+    1. Primero clonamos el repositorio:
 
-## 📥 Instalación y Uso
+    ```bash
+    git clone https://github.com/Eidikey/SistemasEcuaciones.git
+    ```
 
-1. **Clonar el repositorio:**
-   ```bash
-   git clone [https://github.com/Eidikey/SistemasEcuaciones.git](https://github.com/Eidikey/SistemasEcuaciones.git)
+    2. Accedemos a la carpeta SistemasEcuaciones.
+    3. Usamos java para ejecutar la clase Main.java 
 
-  ##COLABORADORES
-Reyes Cortes Francisco Angel
-López Hernández Alejandro
-Islas Beltrán Alexis Uriel
+    ```bash
+    java com/calculadora/Main.java
+    ```
+
+## Creadores
+
+- Francisco Angel Reyes Cortes
+- Alejandro López Hernández
+- Alexis Uriel Islas Beltrán

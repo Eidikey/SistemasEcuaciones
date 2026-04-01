@@ -1,1 +1,0 @@
-# Resolucion de Sistemas de ecuaciones
