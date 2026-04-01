@@ -19,3 +19,8 @@
 1. **Clonar el repositorio:**
    ```bash
    git clone [https://github.com/Eidikey/SistemasEcuaciones.git](https://github.com/Eidikey/SistemasEcuaciones.git)
+
+  ##COLABORADORES
+Reyes Cortes Francisco Angel
+López Hernández Alejandro
+Islas Beltrán Alexis Uriel
