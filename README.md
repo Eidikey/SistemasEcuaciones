@@ -25,7 +25,7 @@
 3. Usamos java para ejecutar la clase Main.java 
 
     ```bash
-    java java com.calculadora.Main
+    java com.calculadora.Main
     ```
 
 ## Creadores
