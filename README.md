@@ -1,4 +1,4 @@
-# PROYECTO DE ALGEBRA LINEAL
+# PROYECTO DE ALGEBRA LINEAL (SISTEMA DE ECUACIONES) 
 
 ## Funcionalidad.
 
@@ -7,6 +7,7 @@
 ## Requisitos.
 
 - JavaJDK 21 o superior
+
 ## Como ejecutarlo.
 
 1. Primero clonamos el repositorio:
@@ -16,6 +17,7 @@
     ```
 
 2. Accedemos a la carpeta SistemasEcuaciones.
+
 3. Compila desde la raíz:
 
     ```bash
@@ -32,4 +34,4 @@
 
 - Francisco Angel Reyes Cortes
 - Alejandro López Hernández
-- Alexis Uriel Islas Beltrán
+- Alexis Uriel Islas Beltran
